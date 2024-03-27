@@ -1,0 +1,40 @@
+[{
+  "_id": "Europe",
+  "totalEmissions": 675217610.46
+},
+{
+  "_id": "Africa",
+  "totalEmissions": 399753869
+},
+{
+  "_id": "East Asia",
+  "totalEmissions": 1274110214.2
+},
+{
+  "_id": "South and West Asia",
+  "totalEmissions": 4686703
+},
+{
+  "_id": "North America",
+  "totalEmissions": 1006632933.15
+},
+{
+  "_id": "Oceania",
+  "totalEmissions": 47464064
+},
+{
+  "_id": "Southeast Asia",
+  "totalEmissions": 4025988
+},
+{
+  "_id": "Middle East",
+  "totalEmissions": 28861628
+},
+{
+  "_id": "South Asia and Oceania",
+  "totalEmissions": 89959299.47
+},
+{
+  "_id": "Latin America",
+  "totalEmissions": 440860582.48
+}]

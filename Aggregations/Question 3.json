@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "65fac5f8d6aa3372f806f470"
+  },
+  "ChangeFromLastYear": "Decreased",
+  "ReasonForChange": "Emissions decreased from is 18.4 to 18 million tonnes between 2012 and 2013. This represents a change from our 2015 GHG emissions tonnage figure.  This is due to inclusion of scope 3 emissions included in the Basic/Basic+ element of the inventory which GM commissioned which is now compliant with  the Global Protocol for Community-Scale Greenhouse Gas Emissions Inventories (GPC), (WRI, C40 and ICLEI).  Previous submissions to CDP only included scope 1 and 2 emissions which drew directly from the national government DECC Local and Regional CO2 Emissions Estimates for 2005-2012 which used similar but not identical methodologies. This is part of a longer trend of decreasing emissions, punctuated with occasional increase years. Primary factors which determine the performance are the use of coal in any one year for grid electricity generation, and weather conditions during spring and autumn, where an extended heating season can occur if these are cold. A decline in total energy consumption is the most significant long term trend factor, due to the uptake of more energy efficient appliances, home adaptations, goods, services and transport"
+},
+{
+  "_id": {
+    "$oid": "65fac5f8d6aa3372f806f5c9"
+  },
+  "ChangeFromLastYear": "Decreased",
+  "ReasonForChange": "Emissions decreased from is 18.1 to 17.9 million tonnes between 2013 and 2014. This represents a change from our GHG emissions tonnage figure reported to CDP in 2015 and a slight decrease in the first 2013 Global GHC protocol compliant Baseline Emissions inventory.  Repeating the reasons for the change - between emissions reported in 2015 submission and now (due to move to a compliant BEI process), this is due to inclusion of scope 3 emissions included in the Basic/Basic+ element of the inventory which GM commissioned which is now compliant with the Global Protocol for Community-Scale Greenhouse Gas Emissions Inventories (GPC), (WRI, C40 and ICLEI).  Previous submissions to CDP only included scope 1 and 2 emissions which drew directly from the national government DECC Local and Regional CO2 Emissions Estimates for 2005-2012 which used similar but not identical methodologies. This is part of a longer trend of decreasing emissions, punctuated with occasional increase years. Primary factors which determine the performance are the use of coal in any one year for grid electricity generation, and weather conditions during spring and autumn, where an extended heating season can occur if these are cold. A decline in total energy consumption is the most significant long term trend factor, due to the uptake of more energy efficient appliances, home adaptations, goods, services and transport"
+}]

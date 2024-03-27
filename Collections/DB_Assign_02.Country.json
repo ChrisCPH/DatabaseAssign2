@@ -1,0 +1,809 @@
+[{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e4fc"
+  },
+  "CountryName": "Canada",
+  "CountryLocation": "(56.130366, -106.346771)",
+  "RegionName": "North America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e4fd"
+  },
+  "CountryName": "United Kingdom",
+  "CountryLocation": "(55.378051, -3.435973)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e4fe"
+  },
+  "CountryName": "USA",
+  "CountryLocation": "(37.09024, -95.712891)",
+  "RegionName": "North America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e4ff"
+  },
+  "CountryName": "Switzerland",
+  "CountryLocation": "(46.818188, 8.227512)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e500"
+  },
+  "CountryName": "France",
+  "CountryLocation": "(46.227638, 2.213749)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e501"
+  },
+  "CountryName": "South Korea",
+  "CountryLocation": "(35.907757, 127.766922)",
+  "RegionName": "East Asia"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e502"
+  },
+  "CountryName": "Australia",
+  "CountryLocation": "(-25.274398, 133.775136)",
+  "RegionName": "Oceania"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e503"
+  },
+  "CountryName": "Poland",
+  "CountryLocation": "(51.919438, 19.145136)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e504"
+  },
+  "CountryName": "South Africa",
+  "CountryLocation": "(-30.559482, 22.937506)",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e505"
+  },
+  "CountryName": "Finland",
+  "CountryLocation": "(61.92411, 25.748151)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e506"
+  },
+  "CountryName": "Netherlands",
+  "CountryLocation": "(52.132633, 5.291266)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e507"
+  },
+  "CountryName": "Taiwan",
+  "CountryLocation": "(23.69781, 120.960515)",
+  "RegionName": "East Asia"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e508"
+  },
+  "CountryName": "Bolivia",
+  "CountryLocation": "(-16.290154, -63.588653)",
+  "RegionName": "Latin America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e509"
+  },
+  "CountryName": "Philippines",
+  "CountryLocation": "(12.879721, 121.774017)",
+  "RegionName": "Southeast Asia"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e50a"
+  },
+  "CountryName": "Germany",
+  "CountryLocation": "(51.165691, 10.451526)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e50b"
+  },
+  "CountryName": "Lithuania",
+  "CountryLocation": "(55.169438, 23.881275)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e50c"
+  },
+  "CountryName": "Portugal",
+  "CountryLocation": "(39.399872, -8.224454)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e50d"
+  },
+  "CountryName": "Ecuador",
+  "CountryLocation": "(-1.831239, -78.183406)",
+  "RegionName": "Latin America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e50e"
+  },
+  "CountryName": "Spain",
+  "CountryLocation": "(40.463667, -3.74922)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e50f"
+  },
+  "CountryName": "Norway",
+  "CountryLocation": "(60.472024, 8.468946)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e510"
+  },
+  "CountryName": "Italy",
+  "CountryLocation": "(41.87194, 12.56738)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e511"
+  },
+  "CountryName": "Mexico",
+  "CountryLocation": "(23.634501, -102.552784)",
+  "RegionName": "Latin America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e512"
+  },
+  "CountryName": "Ethiopia",
+  "CountryLocation": "(9.145, 40.489673)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e513"
+  },
+  "CountryName": "Ireland",
+  "CountryLocation": "(53.41291, -8.24389)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e514"
+  },
+  "CountryName": "Slovenia",
+  "CountryLocation": "(46.151241, 14.995463)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e515"
+  },
+  "CountryName": "Argentina",
+  "CountryLocation": "(-38.416097, -63.616672)",
+  "RegionName": "Latin America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e516"
+  },
+  "CountryName": "Japan",
+  "CountryLocation": "(36.204824, 138.252924)",
+  "RegionName": "East Asia"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e517"
+  },
+  "CountryName": "Sweden",
+  "CountryLocation": "(60.128161, 18.643501)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e518"
+  },
+  "CountryName": "New Zealand",
+  "CountryLocation": "(-40.900557, 174.885971)",
+  "RegionName": "Oceania"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e519"
+  },
+  "CountryName": "Iceland",
+  "CountryLocation": "(64.963051, -19.020835)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e51a"
+  },
+  "CountryName": "Hong Kong",
+  "CountryLocation": "(22.396428, 114.109497)",
+  "RegionName": "East Asia"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e51b"
+  },
+  "CountryName": "Venezuela",
+  "CountryLocation": "(6.42375, -66.58973)",
+  "RegionName": "Latin America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e51c"
+  },
+  "CountryName": "Turkey",
+  "CountryLocation": "(38.963745, 35.243322)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e51d"
+  },
+  "CountryName": "Jordan",
+  "CountryLocation": "(30.585164, 36.238414)",
+  "RegionName": "Middle East"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e51e"
+  },
+  "CountryName": "Greece",
+  "CountryLocation": "(39.074208, 21.824312)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e51f"
+  },
+  "CountryName": "Nigeria",
+  "CountryLocation": "(9.081999, 8.675277)",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e520"
+  },
+  "CountryName": "Georgia",
+  "CountryLocation": "(40.786168, -81.288192)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e521"
+  },
+  "CountryName": "Monaco",
+  "CountryLocation": "(43.738418, 7.424616)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e522"
+  },
+  "CountryName": "Singapore",
+  "CountryLocation": "(1.352083, 103.819836)",
+  "RegionName": "East Asia"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e523"
+  },
+  "CountryName": "Romania",
+  "CountryLocation": "(45.943161, 24.96676)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e524"
+  },
+  "CountryName": "Russia",
+  "CountryLocation": "(61.52401, 105.318756)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e525"
+  },
+  "CountryName": "Vietnam",
+  "CountryLocation": "(14.058324, 108.277199)",
+  "RegionName": "South Asia and Oceania"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e526"
+  },
+  "CountryName": "Colombia",
+  "CountryLocation": "(4.5709, -74.2973)",
+  "RegionName": "Latin America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e527"
+  },
+  "CountryName": "Malaysia",
+  "CountryLocation": "(4.210484, 101.975766)",
+  "RegionName": "South Asia and Oceania"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e528"
+  },
+  "CountryName": "Israel",
+  "CountryLocation": "(31.046051, 34.851612)",
+  "RegionName": "South and West Asia"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e529"
+  },
+  "CountryName": "State of Palestine",
+  "CountryLocation": "(31.9522, 35.2332)",
+  "RegionName": "South and West Asia"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e52a"
+  },
+  "CountryName": "Bulgaria",
+  "CountryLocation": "(42.697708, 23.321868)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e52b"
+  },
+  "CountryName": "Indonesia",
+  "CountryLocation": "(-6.121435, 106.774124)",
+  "RegionName": "South Asia and Oceania"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e52c"
+  },
+  "CountryName": "Albania",
+  "CountryLocation": "(41.153332, 20.168331)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e52d"
+  },
+  "CountryName": "Peru",
+  "CountryLocation": "(-9.19, -75.0152)",
+  "RegionName": "Latin America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e52e"
+  },
+  "CountryName": "Denmark",
+  "CountryLocation": "(56.2639, 9.5018)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e52f"
+  },
+  "CountryName": "Comoros",
+  "CountryLocation": "(-11.6455, 43.3333)",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e530"
+  },
+  "CountryName": "Gibraltar",
+  "CountryLocation": "(36.140751, -5.353585)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e531"
+  },
+  "CountryName": "Thailand",
+  "CountryLocation": "(15.870032, 100.992541)",
+  "RegionName": "South Asia and Oceania"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e532"
+  },
+  "CountryName": "India",
+  "CountryLocation": "(20.5937, 78.9629)",
+  "RegionName": "South and West Asia"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e533"
+  },
+  "CountryName": "Montenegro",
+  "CountryLocation": "(42.708678, 19.37439)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e534"
+  },
+  "CountryName": "China",
+  "CountryLocation": "(35.86166, 104.195397)",
+  "RegionName": "East Asia"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e535"
+  },
+  "CountryName": "Latvia",
+  "CountryLocation": "(56.8796, 24.6032)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e536"
+  },
+  "CountryName": "Estonia",
+  "CountryLocation": "(58.5953, 25.0136)",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e537"
+  },
+  "CountryName": "Democratic Republic of Congo",
+  "CountryLocation": "(-4.038333, 21.758664)",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e538"
+  },
+  "CountryName": "Brazil",
+  "RegionName": "Latin America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e539"
+  },
+  "CountryName": "Chile",
+  "RegionName": "Latin America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e53a"
+  },
+  "CountryName": "Japan",
+  "RegionName": "East Asia"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e53b"
+  },
+  "CountryName": "Costa Rica",
+  "RegionName": "Latin America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e53c"
+  },
+  "CountryName": "Cameroon",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e53d"
+  },
+  "CountryName": "Malawi",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e53e"
+  },
+  "CountryName": "South Africa",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e53f"
+  },
+  "CountryName": "Germany",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e540"
+  },
+  "CountryName": "Turkey",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e541"
+  },
+  "CountryName": "East Asia",
+  "RegionName": "East Asia"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e542"
+  },
+  "CountryName": "Spain",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e543"
+  },
+  "CountryName": "CÃ´te d'Ivoire",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e544"
+  },
+  "CountryName": "Republic of Korea",
+  "RegionName": "East Asia"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e545"
+  },
+  "CountryName": "Guatemala",
+  "RegionName": "Latin America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e546"
+  },
+  "CountryName": "Croatia",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e547"
+  },
+  "CountryName": "Ecuador",
+  "RegionName": "Latin America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e548"
+  },
+  "CountryName": "Jordan",
+  "RegionName": "Middle East"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e549"
+  },
+  "CountryName": "Ireland",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e54a"
+  },
+  "CountryName": "Netherlands",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e54b"
+  },
+  "CountryName": "Kenya",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e54c"
+  },
+  "CountryName": "Cuba",
+  "RegionName": "Latin America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e54d"
+  },
+  "CountryName": "Ethiopia",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e54e"
+  },
+  "CountryName": "Bosnia & Herzegovina",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e54f"
+  },
+  "CountryName": "United Republic of Tanzania",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e550"
+  },
+  "CountryName": "Poland",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e551"
+  },
+  "CountryName": "Sierra Leone",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e552"
+  },
+  "CountryName": "Czechia",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e553"
+  },
+  "CountryName": "Uruguay",
+  "RegionName": "Latin America"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e554"
+  },
+  "CountryName": "Switzerland",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e555"
+  },
+  "CountryName": "Senegal",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e556"
+  },
+  "CountryName": "Belgium",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e557"
+  },
+  "CountryName": "Mozambique",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e558"
+  },
+  "CountryName": "Iceland",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e559"
+  },
+  "CountryName": "Eswatini",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e55a"
+  },
+  "CountryName": "Uganda",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e55b"
+  },
+  "CountryName": "Lithuania",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e55c"
+  },
+  "CountryName": "France",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e55d"
+  },
+  "CountryName": "Madagascar",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e55e"
+  },
+  "CountryName": "Romania",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e55f"
+  },
+  "CountryName": "Monaco",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e560"
+  },
+  "CountryName": "Burundi",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e561"
+  },
+  "CountryName": "Morocco",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e562"
+  },
+  "CountryName": "Albania",
+  "RegionName": "Europe"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e563"
+  },
+  "CountryName": "United Arab Emirates",
+  "RegionName": "Middle East"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e564"
+  },
+  "CountryName": "Ghana",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e565"
+  },
+  "CountryName": "Togo",
+  "RegionName": "Africa"
+},
+{
+  "_id": {
+    "$oid": "65fac5b8d6aa3372f806e566"
+  },
+  "CountryName": "Namibia",
+  "RegionName": "Africa"
+}]
